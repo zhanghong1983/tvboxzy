@@ -17,7 +17,7 @@
 
 {"key":"csp_WoGG_玩偶哥哥","name":"玩偶哥哥[SP]","type":3,"api":"csp_WoGG","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","jar":"./jar/ali.jar"},
 
-//{"key":"csp_XYQHiker_玩偶哥哥","name":"玩偶哥哥(XYQH)","type":3,"api":"csp_XYQHikerAL","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XYQHiker/玩偶哥哥.json"},
+{"key":"csp_XYQHiker_玩偶哥哥","name":"玩偶哥哥(XYQH)","type":3,"api":"csp_XYQHikerAL","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XYQHiker/玩偶哥哥.json"},
 
 //{"key":"csp_XYQHikerAL_阿里云盘","name":"阿里云盘(XYQH)","type":3,"api":"csp_XYQHikerAL","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XYQHiker/阿里云盘.json"},
 
