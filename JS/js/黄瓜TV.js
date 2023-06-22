@@ -1,6 +1,7 @@
 var rule = {
     title:'黄瓜TV',
-    host:'https://aaq48.com:33666',
+    //host:'https://aaq48.com:33666',
+    host:'https://lsfsizmstjjl.xyz:33666',
     homeUrl:'/home/index.html',
     url:'/home/vodlist/38/fyclass-fypage.html',
     headers:{
