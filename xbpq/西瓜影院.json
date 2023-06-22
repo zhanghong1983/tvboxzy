@@ -1,0 +1,17 @@
+{
+"作者":"张弘",
+"站名":"西瓜影院",
+"数组":"<a&&module-item\">",
+"副标题":"item-text\">&&</div>",
+"搜索url":"https://www.xiguazx.com/index.php/vod/search.html?wd={wd}",
+"搜索数组":"<img class=\"lazy lazyload&&<h3>",
+"搜索副标题":"video-serial*>&&</a>",
+"影片类型":"video-tag-icon\">&&立即播放",
+"线路数组":"data-dropdown-value=&&</div>",
+"线路标题":"<span>&&</small>[替换:</span><small>>>💞]+集",
+"播放数组":"<div class=\"sort-item\"&&</div>",
+"播放标题":"<span>&&<",
+"分类":"电影$55#电视剧$72#动漫$78#综艺$80#B站$82",
+"分类url":"https://www.xiguazx.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html;;ak",
+"类型":"55--动作片$56#喜剧片$57#爱情片$58#科幻片$59#恐怖片$60#剧情片$61#战争片$62#惊悚片$63#犯罪片$64#冒险篇$65#动画片$66#悬疑片$67#武侠片$68#奇幻片$69#纪录片$70#其他片$71||72--国产剧$73#港台剧$74#欧美剧$75#日韩剧$76#其他剧$77||78--动漫$79||80--综艺$81||82--番剧（B站）$83#国创（B站）$84#电影（B站）$85#电视剧（B站）$86"
+}
