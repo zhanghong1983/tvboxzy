@@ -1,0 +1,20 @@
+{
+"站名":"天天综合",
+"直接播放":"1",
+"首页":"",
+"请求头":"",
+"主页url":"https://99kkk.vip",
+"数组":"<a&&</a></div>",
+"链接前缀":"https://99kkk.vip",
+"副标题":"\"duration\"&&</div>",
+"搜索副标题":"\"duration\"&&</div>",
+"搜索模式": "1",
+"搜索url":"https://99kkk.vip/vod/search/wd/{wd}.html",
+"搜索链接前缀":"https://99kkk.vip",
+"简介":"",
+"分类url":"https://99kkk.vip{cateId}?page={catePg}",
+"分类二次截取":"<span>直播专区</span>&&</ul>+<span>中文资源</span>&&</ul>+<span>国产传媒</span>&&</ul>+<span>超清资源</span>&&</ul>+<span>AV解说</span>&&</ul>+<span>久久热资源</span>&&</ul>+<span>废柴网资源</span>&&</ul>+<font color=*>大家在搜</font>&&</div>",
+"分类数组":"<a&&a>",
+"分类标题":">&&</",
+"分类ID":"href=\"&&\""
+}

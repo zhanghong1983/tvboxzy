@@ -1,0 +1,19 @@
+{
+"站名":"gaoaa",
+"直接播放":"",
+"首页":"",
+"请求头":"",
+"主页url":"https://100gaoaa.com",
+"链接前缀":"https://100gaoaa.com",
+"搜索模式": "1",
+"搜索url":"/gaosearch/-/?wd={wd}",
+"搜索链接前缀":"https://100gaoaa.com",
+"简介":"",
+"线路数组":"line\">&&</div>",
+"播放数组":"line\">&&</div>",
+"分类url":"/gaotype/{cateId}_{catePg}.html",
+"分类二次截取":"content'>&&</div></div>",
+"分类数组":"<a&&a>",
+"分类标题":">&&</",
+"分类ID":"/gaotype/&&.html"
+}
