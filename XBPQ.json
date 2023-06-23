@@ -17,7 +17,9 @@
 
 {"key":"drpy_js_豆瓣","name":"豆瓣[搜索]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js"},
 
-{"key":"csp_WoGG_玩偶哥哥","name":"玩偶哥哥[SP]","type":3,"api":"csp_WoGG","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","jar":"./jar/ali.jar"},
+{"key":"csp_WoGG","name":"玩偶哥哥[fty]","type":3,"api":"csp_WoGG","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1"},
+
+{"key":"csp_WoGG_玩偶哥哥","name":"玩偶哥哥[ysc]","type":3,"api":"csp_WoGG","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","jar":"./jar/ali.jar"},
 
 {"key":"csp_XYQHiker_玩偶哥哥","name":"玩偶哥哥[XYQH]","type":3,"api":"csp_XYQHikerAL","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XYQHiker/玩偶哥哥.json"},
 
