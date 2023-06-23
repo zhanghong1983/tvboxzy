@@ -1,9 +1,9 @@
 {
 "urls": [
 
-{"name":"自用","url":"./tvbox/XBPQ.json"},
+{"name":"Read","url":"https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/XBPQ.json"},
 
-{"name":"Sex","url":"./tvbox/SEX.json"},
+{"name":"Sex","url":"https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/SEX.json"},
 
 {"name":"南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
