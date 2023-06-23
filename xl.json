@@ -1,0 +1,53 @@
+{
+"urls": [
+
+{"name":"自用","url":"./tvbox/XBPQ.json"},
+
+{"name":"Sex","url":"./tvbox/SEX.json"},
+
+{"name":"南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
+
+{"name":"肥猫","url":"http://刚刚.live/猫"},
+
+{"name":"肥猫备用","url":"http://肥猫.love"},
+
+{"name":"菜妮丝","url":"https://tvbox.cainisi.cf"},
+
+{"name":"饭太硬","url":"http://饭太硬.top/tv"},
+
+{"name":"饭太硬备用","url":"http://饭太硬.ml/tv"},
+
+{"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
+
+{"name":"运输车","url":"https://weixine.net/ysc.json"},
+
+{"name":"运输车备用","url":"http://ysc.weixine.net:33/"},
+
+{"name":"香雅晴","url":"https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/XYQTVBox/XYQTVBox.json"},
+
+{"name":"唐三","url":"https://gh.t4tv.hz.cz/newtang.bmp"},
+
+{"name":"大聪明","url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"},
+
+{"name":"高天流云XYQ","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},
+
+{"name":"高天流云JS","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
+
+{"name":"高天流云Sex","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
+
+{"name":"小苹果","url":"https://la.kstore.space/download/3376/xpg.txt"},
+
+{"name":"小苹果JS","url":"https://s2.pub/xpg"},
+
+{"name":"蜂蜜","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
+
+{"name":"蜂蜜Sex","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"}
+
+],
+"vip": [
+{
+"url": "",
+"name": ""
+}
+]
+}
