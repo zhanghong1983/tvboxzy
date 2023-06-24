@@ -43,6 +43,8 @@
 
 {"key":"csp_DuoX","name":"多线[SP]","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"drpy_js_酷云七七","name":"酷云七七","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/酷云77.js"},
+
 {"key":"csp_Kunyu77_酷云七七","name":"酷云七七[SP]","type":3,"api":"csp_Kunyu77","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1"},
 
 {"key":"csp_SP2345","name":"2345影视[SP]","type":3,"api":"csp_SP2345","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1"},
