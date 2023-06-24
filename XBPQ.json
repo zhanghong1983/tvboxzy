@@ -109,7 +109,9 @@
 
 {"key":"drpy_js_萌蛋蛋[V2]","name":"萌蛋蛋[V2]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/萌蛋蛋[V2].js"},
 
-{"key":"csp_AppYsV2_影探","name":"影探[APP]","type":3,"api":"csp_AppYsV2","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"http://longfei.lfytyl.com/api.php/app/"},
+{"key":"csp_AppYsV2_影探","name":"影探[APP]","type":3,"api":"csp_AppYsV2","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lfytv.cn/api.php/app/"},
+
+{"key":"csp_AppYsV2_影探备用","name":"影探备用[APP]","type":3,"api":"csp_AppYsV2","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://get.lfytyl.com/api.php/app/"},
 
 {"key":"csp_AppYsV2_爱迪影视","name":"爱迪影视[APP]","api":"csp_AppYsV2","type":3,"searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"https://api123.adys.app/xgapp.php/v3/"},
 
