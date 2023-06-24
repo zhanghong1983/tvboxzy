@@ -29,6 +29,8 @@
 
 {"key":"csp_NiNi_泥巴[海外]","name":"泥巴[海外]","type":3,"api":"csp_NiNi","searchable":1,"ext":"1"},
 
+{"key":"csp_XBPQ_爱欧乐影院[海外]","name":"爱欧乐影院[海外]","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/爱欧乐影院.json"},
+
 {"key":"drpy_js_枫林网[海外]","name":"枫林网[海外]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/枫林网[海外].js"},
 
 {"key":"drpy_js_唐人街影视[海外]","name":"唐人街[海外]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/唐人街影视[海外].js"},
