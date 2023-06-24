@@ -23,11 +23,11 @@
 
 {"key":"4KHDR","name":"4KHDR[XYQH]","type":3,"api":"csp_XYQHikerAL","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XYQHiker/4KHDR.json"},
 
-{"key":"csp_Tangrenjie_唐人街[海外]","name":"唐人街","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Tangrenjie_唐人街[海外]","name":"唐人街[海外]","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"星星","name":"星星[海外]","type":3,"api":"csp_Star","searchable":1,"changeable":1},
+{"key":"csp_Star_星星[海外]","name":"星星[海外]","type":3,"api":"csp_Star","searchable":1,"changeable":1},
 
-{"key":"csp_NiNi_泥巴","name":"泥巴[海外]","type":3,"api":"csp_NiNi","searchable":1,"ext":"1"},
+{"key":"csp_NiNi_泥巴[海外]","name":"泥巴[海外]","type":3,"api":"csp_NiNi","searchable":1,"ext":"1"},
 
 {"key":"drpy_js_枫林网[海外]","name":"枫林网[海外]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/枫林网[海外].js"},
 
@@ -104,8 +104,6 @@
 {"key":"drpy_js_UM电影[V2]","name":"UM电影[V2]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/UM电影[V2].js"},
 
 {"key":"drpy_js_布雷蓝光[V2]","name":"布雷蓝光[V2]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/布雷蓝光[V2].js"},
-
-{"key":"drpy_js_555电影[V2]","name":"555电影[V2]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/555电影[V2].js"},
 
 {"key":"drpy_js_萌蛋蛋[V2]","name":"萌蛋蛋[V2]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/萌蛋蛋[V2].js"},
 
