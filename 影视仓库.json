@@ -1,0 +1,13 @@
+{
+"storeHouse":[
+{
+"sourceName":"本地仓库",
+"sourceUrl":"clan://localhost/tvbox/影视仓线路.json"
+},
+{
+"sourceName":"一锅端仓库",
+"sourceUrl":"http://吃.砂锅.love:66/一锅端大仓库"
+}
+//{"sourceName":"在线仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/1"},
+]
+}
