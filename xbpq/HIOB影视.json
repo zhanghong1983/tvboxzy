@@ -1,0 +1,23 @@
+{
+"作者":"张弘",
+"站名":"HIOB影视",
+"数组":"<a&&module-item\">",
+"副标题":"module-item-text\">&&</div",
+"链接":"href=\"&&\"",
+"搜索模式":"1",
+"搜索url":"https://hiob.cn/index.php/vod/search.html?wd={wd}",
+"搜索数组":"lazy lazyload&&<h3>",
+"搜索图片":"data-src=\"&&\"",
+"搜索标题":"title=\"&&\"",
+"搜索链接":"href=\"&&\"",
+"搜索副标题":"title=*>&&</a>",
+"搜索后缀":"/index.php/vod/detail/id/",
+"影片类型":"<div class=\"tag-link\">&&</div>",
+"导演":"导演：&&</div>",
+"主演":"主演：&&</div>",
+"简介":"vod_content\">&&</span>",
+"线路数组":"<div class=\"module-tab-item tab-item&&</div",
+"线路标题":"data-dropdown-value=\"&&\"",
+"分类url": "https://hiob.cn/index.php/vod/show/area/{area}/id/{cateId}/year/{year}/page/{catePg}.html",
+"分类":"电影$1#连续剧$2#综艺$3#动漫$4"
+}
