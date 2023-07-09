@@ -1,10 +1,8 @@
 {
 "urls": [
 
-{"name":"XBPQ","url":"clan://localhost/tvbox/XBPQ.json"},
+{"name":"XBPQ","url":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/XBPQ.json"},
 
-{"name":"SEX","url":"clan://localhost/tvbox/SEX.json"},
-//{"url":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/tvbox.json","name":"网络接口"},
 {"name":"南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 
 {"name":"肥猫","url":"http://刚刚.live/猫"},
