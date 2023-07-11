@@ -65,7 +65,7 @@
 
 {"key":"csp_Ying_樱花动漫","name":"樱花动漫[SP]","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Nmys","name":"农民影视[SP]","type":3,"api":"csp_Nmys","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XP/Nmys.json"},
+{"key":"csp_Nmys","name":"农民影视[SP]","type":3,"api":"csp_Nmys","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./xp/Nmys.json"},
 
 {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1"},
 
