@@ -45,6 +45,8 @@
 
 {"key":"csp_XBPQ_360影视","name":"360影视","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/360影视.json"},
 
+{"key":"csp_XBPQ_看剧网","name":"看剧网","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/看剧网.json"},
+
 {"key":"csp_XBPQ_HIOB影视","name":"HIOB影视","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/HIOB影视.json"},
 
 {"key":"csp_XBPQ_非凡资源网","name":"非凡资源网","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/非凡资源网.json"},
@@ -59,6 +61,8 @@
 
 {"key":"csp_SP2345","name":"2345影视[SP]","type":3,"api":"csp_SP2345","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1"},
 
+{"key":"csp_Xinsj","name":"新视觉[SP]","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/","jar":"./jar/fty.jar"},
+
 {"key":"csp_Jianying","name":"简影[SP]","type":3,"api":"csp_Jianying","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"hjju123@qq.com$$$123456"},
 
 {"key":"csp_Dm84","name":"动漫巴士[SP]","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
@@ -67,7 +71,7 @@
 
 {"key":"csp_Nmys","name":"农民影视[SP]","type":3,"api":"csp_Nmys","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./xp/Nmys.json"},
 
-{"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1"},
+//{"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1"},
 
 {"key":"csp_Czsapp","name":"厂长[SP]","type":3,"api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1"},
 
