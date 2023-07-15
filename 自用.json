@@ -15,9 +15,9 @@
 
 {"key":"drpy_js_豆瓣","name":"豆瓣[搜索]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js"},
 
-//{"key":"csp_WoGG_玩偶哥哥","name":"玩偶哥哥[ysc]","type":3,"api":"csp_WoGG","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","jar":"./jar/ali.jar"},
+{"key":"csp_WoGG_玩偶哥哥","name":"玩偶哥哥[ysc]","type":3,"api":"csp_WoGG","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","jar":"./jar/ali.jar"},
 
-//{"key":"csp_XYQHiker_玩偶哥哥","name":"玩偶哥哥[XYQH]","type":3,"api":"csp_XYQHikerAL","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XYQHiker/玩偶哥哥.json"},
+{"key":"csp_XYQHiker_玩偶哥哥","name":"玩偶哥哥[XYQH]","type":3,"api":"csp_XYQHikerAL","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XYQHiker/玩偶哥哥.json"},
 
 {"key":"csp_XBPQ_360影视","name":"360影视","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/360影视.json"},
 
@@ -207,32 +207,32 @@
 
 {"key":"本地","name":"本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
 
-//{"key":"csp_YiSo_易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/ali.jar"},
+{"key":"csp_YiSo_易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/ali.jar"},
 
-//{"key":"csp_Zhaozy_找资源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"null$$$yunshuche$$$11223344","jar":"./jar/ali.jar"},
+{"key":"csp_Zhaozy_找资源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"null$$$yunshuche$$$11223344","jar":"./jar/ali.jar"},
 
-//{"key":"csp_PanSou_盘搜","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/ali.jar"},
+{"key":"csp_PanSou_盘搜","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/ali.jar"},
 
-//{"key":"csp_UpYun_云搜","name":"云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/ali.jar"},
+{"key":"csp_UpYun_云搜","name":"云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/ali.jar"},
 
-//{"key":"csp_PanSearch_网盘搜索","name":"网盘搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/ali.jar"},
+{"key":"csp_PanSearch_网盘搜索","name":"网盘搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/ali.jar"},
 
-//{"key":"csp_Paper_纸条搜索","name":"纸条搜索","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/ali.jar"},
+{"key":"csp_Paper_纸条搜索","name":"纸条搜索","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/ali.jar"},
 
-//{"key":"csp_Dovx_阿里云盘","name":"阿里云搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/ali.jar"},
+{"key":"csp_Dovx_阿里云盘","name":"阿里云搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/ali.jar"},
 
 
 //{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0}
 
-//{"key":"csp_Gitcafe","name":"💽纸条搜索","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Gitcafe","name":"💽纸条搜索","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key":"csp_Zhaozy","name":"💽找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Zhaozy","name":"💽找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0},
 
-//{"key":"csp_AliPS","name":"💽盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_AliPS","name":"💽盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0},
 
-//{"key":"csp_Yisou","name":"💽易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Yisou","name":"💽易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0},
 
-//{"key":"csp_Upyunso","name":"💽云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Upyunso","name":"💽云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"push_agent","name":"推送[海阔]","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 
