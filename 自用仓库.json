@@ -1,0 +1,12 @@
+{
+"storeHouse":[
+{
+"sourceName":"在线仓库",
+"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/自用线路.json"
+},
+{
+"sourceName":"一锅端仓库",
+"sourceUrl":"http://吃.砂锅.love:66/一锅端大仓库"
+}
+]
+}
